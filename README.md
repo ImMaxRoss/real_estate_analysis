@@ -6,15 +6,21 @@
 
 ## Overview
 
-## Business Problem
+## Business Understanding
+    - Include stakeholder and business questions
 
-## Data
+## Data Understanding
+    - Source of data (either describe or link)
+    - Description of data (high level, go into more detail in your technical notebook)
 
-## Methods
+## Modeling
+    - Describe techniques or methods
+    - Written interpretation of results (final model)
 
 ## Results
 
 ## Conclusions
+    -Summary of conclusions / recommendations
 
 ### Next Steps
 
