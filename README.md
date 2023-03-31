@@ -90,3 +90,19 @@ Our final model features housing prices vs SQFT Living.   However, it takes into
 We see lots of potential for profit with unrenovated homes.   There are many more unrenovated homes than renovated homes in the market - thus we can choose many of these unrenovated homes, renovate them, increas their value, and earn profit.   
 
 We satisify our initial business problem of being unsure what our plan of action is.   We now know our plan of action.   Choosing among 29,000 unrenovated homes (according to our data), we can increase their value by renovating them thus satisfying our intinial desire of maximizing profit.
+
+## For More Information
+See the full analysis in the [Jupyter Notebook](./King_County_analysis.ipynb) or review this [presentation](./King_County_Analysis.pdf).
+
+For additional info, contact Charlie at [protigen34](https://github.com/protigen34), Gideon Miles at [Giddybird](https://github.com/Giddybird), or Max Ross at [ImMaxRoss](https://github.com/ImMaxRoss)
+
+
+## Repository Structure
+
+```
+├── data
+├── images
+├── README.md
+├── King_County_Analysis.ipynb
+├── King_County_Analysis.pdf
+```
