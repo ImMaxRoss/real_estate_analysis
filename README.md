@@ -72,7 +72,7 @@ On average, our findings show that properties are valued at \\$382 per square fo
 ####  What Makes A Zipcode Hot?:
 - We like to see what it is about zip code that makes it a huge factor. Proximity to freeways, malls, shopping, parks, playgrounds, bus stations?
 
-![zipcodes](images/renovationprice.jpg)
+![zipcodes](images/Renovationprice.jpg)
 
 ####  Are There Any Zipcodes that could get Hot?:
 - Are there indicators that zipcodes could be trending toward gentrification?
